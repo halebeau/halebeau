@@ -1,7 +1,7 @@
 Hi 👋 My name is Beau Hale
 ==========================
 
-Full Stack Web Developer
+Web Developer
 ------------------------
 
 I've been learning to code for 3 years now. I really enjoy Front End Web Development and Mobile applications. Specialing in Web Design next!
