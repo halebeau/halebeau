@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for 3 years now. I really enjoy Front End Web Development and Mobile applications. Specialing in Web Design next!
 
 * 🌍  I'm based in United States
-* 🖥️  See my portfolio at [My Portfolio](http://beau-portfolio-1.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](https://beauhale.netlify.app)
 * ✉️  You can contact me at [halebeau3@gmail.com](mailto:halebeau3@gmail.com)
 * 🧠  I'm learning Webflow. Mastering Javascript, React, and CSS.
 * ⚡  I'm a rare extrovert.
