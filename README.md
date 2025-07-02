@@ -1,10 +1,10 @@
 Hi 👋 My name is Beau Hale
 ==========================
 
-Web Developer
+Web Developer/Software Developer
 ------------------------
 
-I've been learning to code for 4 years now. I really enjoy Front End Web Development and Mobile applications. Specialing in Web Design next!
+I've been in Tech for 5 years now. I really enjoy Front End Web Development and Mobile applications. Worked as a Web Dev(JS, React) and a Software Dev(Java).
 
 * 👨🏼‍💻 Currently working as a Technical Requirement Analyst
 * 🌍  I'm based in the United States
